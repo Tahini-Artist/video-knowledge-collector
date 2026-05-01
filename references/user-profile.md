@@ -15,6 +15,12 @@
 
 [待填写：你希望达成什么目标]
 
+## Obsidian 知识库路径
+
+[待填写：你的 Obsidian 库在本地电脑的路径]
+- macOS 示例：/Users/你的用户名/Obsidian/我的知识库
+- Windows 示例：C:\Users\你的用户名\Documents\Obsidian\我的知识库
+
 ## 更新记录
 
 - [日期]：首次收集
